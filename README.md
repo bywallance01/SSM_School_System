@@ -1,4 +1,5 @@
-##SSM整合
+##SSM整合  
+
 将Spring、Spring MVC和Mybaits三个框架进行简单整合，可以作为Java Web  
 初级开发人员学习之用
 
@@ -12,5 +13,5 @@
 
  
  
-具体参见我的博客：http://www.cnblogs.com/bywallance/p/5978583.html
+具体参见我的博客：http://www.cnblogs.com/bywallance/p/5978583.html  
 联系交流，邮箱地址：bywallance@163.com
